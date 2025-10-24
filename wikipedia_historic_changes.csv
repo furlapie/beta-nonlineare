@@ -1,0 +1,380 @@
+Date,Added Ticker,Added Company,Added Sector,Removed Ticker,Removed Company,Removed Sector,Reason
+22/09/2025,EME,Emcor,Industrials,ENPH,Enphase Energy,Information Technology,Market capitalization change.
+22/09/2025,HOOD,Robinhood Markets,Financial Services,CZR,Caesars Entertainment,Consumer Discretionary,Market capitalization change.
+22/09/2025,APP,AppLovin,Communication Services,MKTX,MarketAxess,Financials,Market capitalization change.
+28/08/2025,IBKR,Interactive Brokers,Financials,WBA,Walgreens Boots Alliance,Healthcare,Sycamore Partners acquired Walgreen Boots Alliance.
+23/07/2025,XYZ,"Block, Inc.",Financials,HES,Hess Corporation,Energy,S&P 500 and S&P 100 constituent Chevron Corp. acquired Hess Corporation
+18/07/2025,TTD,Trade Desk (The),Communication Services,ANSS,Ansys,Information Technology,S&P 500 constituent Synopsys Inc. acquired Ansys.
+09/07/2025,DDOG,Datadog,Information Technology,JNPR,Juniper Networks,Information Technology,S&P 500 constituent Hewlett Packard Enterprise Co. acquired Juniper Networks.
+19/05/2025,COIN,Coinbase,Financials,DFS,Discover Financial,Financials,S&P 500 constituent Capital One Financial Corp. acquired Discover Financial Services.
+24/03/2025,DASH,DoorDash,Consumer Discretionary,BWA,BorgWarner,Consumer Cyclical,Market capitalization change.
+24/03/2025,TKO,TKO Group Holdings,Communication Services,TFX,Teleflex,Healthcare,Market capitalization change.
+24/03/2025,WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,CE,Celanese,Basic Materials,Market capitalization change.
+24/03/2025,EXE,Expand Energy,Energy,FMC,FMC Corporation,Basic Materials,Market capitalization change.
+23/12/2024,APO,Apollo Global Management,Financials,QRVO,Qorvo,Technology,Market capitalization change.
+23/12/2024,WDAY,"Workday, Inc.",Information Technology,AMTM,Amentum,Industrials,Market capitalization change.
+23/12/2024,LII,Lennox International,Industrials,CTLT,Catalent,Health Care,Novo Holdings A/S acquired Catalent.
+26/11/2024,TPL,Texas Pacific Land Corporation,Energy,MRO,Marathon Oil,Energy,S&P 500 & 100 constituent ConocoPhillips acquired Marathon Oil.
+01/10/2024,,,,BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,Market capitalization change.
+30/09/2024,AMTM,Amentum,Industrials,,,,"S&P 500 constituent Jacobs Solutions spun off its Critical Mission Solutions and Cyber Intelligence business, which merged with private Amentum to create newly publicly traded Amentum Holdings."
+23/09/2024,PLTR,Palantir Technologies,Information Technology,AAL,American Airlines Group,Industrials,Market capitalization change.
+23/09/2024,DELL,Dell Technologies,Information Technology,ETSY,Etsy,Consumer Cyclical,Market capitalization change.
+23/09/2024,ERIE,Erie Indemnity,Financials,BIO,Bio-Rad Laboratories,Healthcare,Market capitalization change.
+24/06/2024,KKR,KKR,Financials,RHI,Robert Half,Industrials,Market capitalization change.
+24/06/2024,CRWD,CrowdStrike,Information Technology,CMA,Comerica,Financial Services,Market capitalization change.
+24/06/2024,GDDY,GoDaddy,Information Technology,ILMN,"Illumina, Inc.",Healthcare,Market capitalization change.
+08/05/2024,VST,Vistra,Utilities,PXD,Pioneer Natural Resources,Energy,S&P 500 and S&P 100 constituent ExxonMobil acquired Pioneer Natural Resources.
+03/04/2024,,,,XRAY,Dentsply Sirona,Healthcare,Market capitalization change.
+03/04/2024,,,,VFC,VF Corporation,Consumer Cyclical,Market capitalization change.
+02/04/2024,GEV,GE Vernova,Industrials,,,,S&P 500 and 100 constituent General Electric Corp. spun off GE Vernova.
+01/04/2024,SOLV,Solventum,Health Care,,,,S&P 500 and 100 constituent 3M Co. spun off Solventum.
+18/03/2024,SMCI,Supermicro,Information Technology,WHR,Whirlpool Corporation,Consumer Cyclical,Market capitalization change.
+18/03/2024,DECK,Deckers Brands,Consumer Discretionary,ZION,Zions Bancorporation,Financial Services,Market capitalization change.
+18/12/2023,UBER,Uber,Industrials,SEE,Sealed Air,Consumer Cyclical,Market capitalization change.
+18/12/2023,JBL,Jabil,Information Technology,ALK,Alaska Air Group,Industrials,Market capitalization change.
+18/12/2023,BLDR,Builders FirstSource,Industrials,SEDG,SolarEdge,Technology,Market capitalization change.
+18/10/2023,HUBB,Hubbell,Industrials,OGN,Organon & Co.,Healthcare,Market capitalization change.
+18/10/2023,LULU,Lululemon Athletica,Consumer Discretionary,ATVI,Activision Blizzard,Communication Services,S&P 500 and S&P 100 constituent Microsoft acquired Activision Blizzard .
+03/10/2023,,,,DXC,DXC Technology,Technology,Market capitalization change.
+02/10/2023,VLTO,Veralto,Industrials,,,,S&P 500 and S&P 100 constituent Danaher Corporation spun off Veralto.
+18/09/2023,BX,Blackstone,Financials,LNC,Lincoln National Corporation,Financial Services,Market capitalization change.
+18/09/2023,ABNB,Airbnb,Consumer Discretionary,NWL,Newell Brands,Consumer Defensive,Market capitalization change.
+25/08/2023,KVUE,Kenvue,Consumer Staples,AAP,Advance Auto Parts,Consumer Cyclical,S&P 500 and S&P 100 constituent Johnson & Johnson offered to exchange the shares of Kenvue held for shares of Johnson & Johnson in a split-off exchange offer.
+20/06/2023,PANW,Palo Alto Networks,Information Technology,DISH,Dish Network,Communication Services,Market capitalization change.
+04/05/2023,AXON,Axon Enterprise,Industrials,FRC,First Republic Bank,Financials,The Federal Deposit Insurance Corporation (FDIC) placed First Republic Bank into FDIC Receivership.
+20/03/2023,FICO,Fair Isaac,Information Technology,LUMN,Lumen Technologies,Communication Services,Market capitalization change.
+15/03/2023,BG,Bunge Global,Consumer Staples,SBNY,Signature Bank,Financial Services,The FDIC placed Signature Bank into FDIC Receivership.
+15/03/2023,PODD,Insulet,Health Care,SIVB,SVB Financial Group,Financials,"The FDIC placed SVB's main subsidiary, Silicon Valley Bank , into receivership."
+05/01/2023,,,,VNO,Vornado Realty Trust,Real Estate,Market capitalization change.
+04/01/2023,GEHC,GE HealthCare,Health Care,,,,S&P 500 constituent General Electric spun off GE HealthCare.
+22/12/2022,STLD,Steel Dynamics,Materials,ABMD,Abiomed,Health Care,S&P 500 constituent Johnson & Johnson acquired Abiomed.
+19/12/2022,FSLR,First Solar,Information Technology,FBHS,Fortune Brands Home & Security,Consumer Discretionary,Market capitalization change.
+19/12/2022,,,,MBC,MasterBrand,Consumer Cyclical,Market capitalization change.
+15/12/2022,MBC,MasterBrand,Consumer Cyclical,,,,S&P 500 constituent Fortune Brands Home & Security spun off MasterBrand.
+01/11/2022,ACGL,Arch Capital Group,Financials,TWTR,Twitter,Communication Services,Elon Musk acquired Twitter.
+12/10/2022,TRGP,Targa Resources,Energy,NLSN,Nielsen Holdings,Communication Services,Elliot Management Corp acquired Nielsen Holdings.
+03/10/2022,PCG,PG&E,Utilities,CTXS,Citrix Systems,Information Technology,Vista Equity Partners acquired Citrix Systems.
+03/10/2022,EQT,EQT Corporation,Energy,DRE,Duke Realty,Real Estate,S&P 500 constituent Prologis Inc. acquired Duke Realty.
+19/09/2022,CSGP,CoStar Group,Real Estate,PVH,PVH,Consumer Cyclical,Market capitalization change.
+19/09/2022,INVH,Invitation Homes,Real Estate,PENN,Penn Entertainment,Consumer Cyclical,Market capitalization change.
+21/06/2022,,,,UA,Under Armour(Class C),Consumer Cyclical,Market capitalization change.
+21/06/2022,KDP,Keurig Dr Pepper,Consumer Staples,UAA,Under Armour(Class A),Consumer Cyclical,Market capitalization change.
+21/06/2022,ON,ON Semiconductor,Information Technology,IPGP,IPG Photonics,Technology,Market capitalization change.
+08/06/2022,VICI,Vici Properties,Real Estate,CERN,Cerner,Health Care,S&P 500 constituent Oracle Corp. acquired Cerner.
+11/04/2022,WBD,Warner Bros. Discovery,Communication Services,DISCA,"Discovery, Inc.",Communication Services,WarnerMedia and Discovery merge to create Warner Bros. Discovery .
+11/04/2022,,,,DISCK,"Discovery, Inc.",Communication Services,WarnerMedia and Discovery merge to create Warner Bros. Discovery .
+04/04/2022,CPT,Camden Property Trust,Real Estate,PBCT,People's United Financial,Financials,S&P 500 constituent M&T Bank Corp. acquired People's United Financial.
+02/03/2022,MOH,Molina Healthcare,Health Care,INFO,IHS Markit,Information Technology,S&P 500 constituent S&P Global Inc. acquired IHS Markit.
+15/02/2022,NDSN,Nordson Corporation,Industrials,XLNX,Xilinx,Information Technology,S&P 500 constituent Advanced Micro Devices acquired Xilinx.
+03/02/2022,,,,GPS,Gap,Consumer Discretionary,Market capitalization change.
+02/02/2022,CEG,Constellation Energy,Utilities,,,,S&P 500 and 100 constituent Exelon Corp. spun off Constellation Energy.
+20/12/2021,SBNY,Signature Bank,Financial Services,LEG,Leggett & Platt,Consumer Cyclical,Market capitalization change.
+20/12/2021,SEDG,SolarEdge,Technology,HBI,Hanesbrands,Consumer Cyclical,Market capitalization change.
+20/12/2021,FDS,FactSet,Financials,WU,Western Union,Financial Services,Market capitalization change.
+14/12/2021,EPAM,EPAM Systems,Information Technology,KSU,Kansas City Southern,Industrials,Canadian Pacific acquired Kansas City Southern.
+20/09/2021,MTCH,Match Group,Communication Services,PRGO,Perrigo,Healthcare,Market capitalization change.
+20/09/2021,CDAY,Ceridian,Information Technology,UNM,Unum,Financial Services,Market capitalization change.
+20/09/2021,BRO,Brown & Brown,Financials,NOV,Nov,Energy,Market capitalization change.
+30/08/2021,TECH,Bio-Techne,Health Care,MXIM,Maxim Integrated,Information Technology,S&P 500 constituent Analog Devices acquired Maxim Integrated Products.
+21/07/2021,MRNA,Moderna,Health Care,ALXN,Alexion Pharmaceuticals,Health Care,AstraZeneca acquired Alexion Pharmaceuticals.
+04/06/2021,,,,HFC,HollyFrontier,Energy,Market capitalization change.
+03/06/2021,OGN,Organon & Co.,Healthcare,,,,S&P 500/100 constituent Merck & Co. spun off Organon.
+14/05/2021,CRL,Charles River Laboratories,Health Care,FLIR,FLIR Systems,Information Technology,S&P 500 constituent Teledyne Technologies acquired FLIR Systems.
+20/04/2021,PTC,PTC,Information Technology,VAR,Varian Medical Systems,Health Care,Siemens Healthineers acquired Varian Medical Systems.
+22/03/2021,NXPI,NXP,Information Technology,FLS,Flowserve,Industrials,Market capitalization change.
+22/03/2021,PENN,Penn National Gaming,Consumer Cyclical,SLG,SL Green Realty,Real Estate,Market capitalization change.
+22/03/2021,GNRC,Generac Holdings,Industrials,XRX,Xerox,Technology,Market capitalization change.
+22/03/2021,CZR,Caesars Entertainment,Consumer Discretionary,VNT,Vontier,Technology,Market capitalization change.
+12/02/2021,MPWR,Monolithic Power Systems,Information Technology,FTI,TechnipFMC,Energy,TechnipFMC was removed from the S&P 500 in anticipation of its announced spin-off of Technip Energies.
+21/01/2021,TRMB,Trimble,Information Technology,CXO,Concho Resources,Energy,S&P 500/100 constituent ConocoPhillips acquired Concho Resources.
+07/01/2021,ENPH,Enphase Energy,Information Technology,TIF,Tiffany & Co,Consumer Discretionary,LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.
+21/12/2020,TSLA,Tesla,Consumer Discretionary,AIV,Apartment Investment & Management,Real Estate,Apartment Investment and Management (Aimco) spun off Apartment Income REIT.
+12/10/2020,,,,NBL,Noble Energy,Energy,Chevron acquired Noble Energy.
+09/10/2020,VNT,Vontier,Technology,,,,S&P 500 constituent Fortive spun off Vontier.
+07/10/2020,POOL,Pool Corporation,Consumer Discretionary,ETFC,E-Trade,Financials,Morgan Stanley acquired E*Trade.
+21/09/2020,ETSY,Etsy,Consumer Cyclical,HRB,H&R Block,Consumer Cyclical,Market capitalization change.
+21/09/2020,TER,Teradyne,Information Technology,COTY,Coty,Consumer Defensive,Market capitalization change.
+21/09/2020,CTLT,Catalent,Health Care,KSS,Kohl's,Consumer Cyclical,Market capitalization change.
+22/06/2020,BIO,Bio-Rad Laboratories,Healthcare,ADS,Alliance Data Systems,Information Technology,Market capitalization change.
+22/06/2020,TDY,Teledyne,Information Technology,HOG,Harley-Davidson,Consumer Cyclical,Market capitalization change.
+22/06/2020,TYL,Tyler Technologies,Information Technology,JWN,Nordstrom,Consumer Discretionary,Market capitalization change.
+22/05/2020,WST,West Pharmaceutical Services,Health Care,HP,Helmerich & Payne,Energy,Market capitalization change.
+12/05/2020,DPZ,Domino's Pizza,Consumer Discretionary,CPRI,Capri Holdings,Consumer Cyclical,Market capitalization change.
+12/05/2020,DXCM,Dexcom,Health Care,AGN,Allergan,Health Care,Allergan acquired by AbbVie .
+06/04/2020,,,,M,Macy's,Consumer Cyclical,Market capitalization change.
+06/04/2020,,,,RTN,Raytheon Company,Industrials,United Technologies spun off Otis and Carrier and acquired Raytheon Company.
+03/04/2020,OTIS,Otis Worldwide,Industrials,,,,United Technologies spun off Otis and Carrier and acquired Raytheon Company.
+03/04/2020,CARR,Carrier,Industrials,,,,United Technologies spun off Otis and Carrier and acquired Raytheon Company.
+01/04/2020,HWM,Howmet Aerospace,Industrials,ARNC,Arconic,Materials,Arconic separated into 2 companies - Howmet remained on the index.
+02/03/2020,IR,Ingersoll Rand,Industrials,XEC,Cimarex Energy,Energy,"Gardner Denver acquired Ingersoll Rand 's industrial businesses then changed its name to the ""new"" Ingersoll Rand Inc."
+28/01/2020,PAYC,Paycom,Industrials,WCG,WellCare,Health Care,S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.
+23/12/2019,LYV,Live Nation Entertainment,Communication Services,AMG,Affiliated Managers Group,Financial Services,Market capitalization change.
+23/12/2019,ZBRA,Zebra Technologies,Information Technology,TRIP,TripAdvisor,Consumer Cyclical,Market capitalization change.
+23/12/2019,STE,Steris,Health Care,MAC,Macerich,Real Estate,Market capitalization change.
+09/12/2019,ODFL,Old Dominion Freight Line,Industrials,STI,SunTrust Banks,Industrials,BB&T acquired SunTrust to form Truist Financial .
+05/12/2019,WRB,W. R. Berkley Corporation,Financials,VIAB,Viacom,Communication Services,CBS acquired Viacom to form ViacomCBS .
+21/11/2019,NOW,ServiceNow,Information Technology,CELG,Celgene,Health Care,Bristol-Myers Squibb (NYSE:BMY) acquired Celgene.
+03/10/2019,LVS,Las Vegas Sands,Consumer Discretionary,NKTR,Nektar Therapeutics,Healthcare,Market capitalization change.
+26/09/2019,NVR,NVR,Consumer Discretionary,JEF,Jefferies Financial Group,Financial Services,JEF spun off SPB.
+23/09/2019,CDW,CDW Corporation,Information Technology,TSS,TSYS,Information Technology,S&P 500 constituent Global Payments (NYSE: GPN) acquired TSS.
+09/08/2019,LDOS,Leidos,Industrials,APC,Anadarko Petroleum,Energy,S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.
+09/08/2019,IEX,IDEX Corporation,Industrials,FL,Foot Locker,Consumer Cyclical,Market capitalization change.
+15/07/2019,TMUS,T-Mobile US,Communication Services,RHT,Red Hat,Information Technology,S&P 500 & 100 constituent IBM acquired Red Hat.
+01/07/2019,MKTX,MarketAxess,Financials,LLL,L3 Technologies,Industrials,L3 purchased by Harris Corporation
+11/06/2019,AMCR,Amcor,Materials,BMS,Bemis,Materials,BMS changed to AMCR post merger with Amcor;  subsequently renamed to Amcor
+07/06/2019,BMS,Bemis,Materials,MAT,Mattel,Consumer Cyclical,Pending merger of Bemis and Amcor; Bemis treated as the surviving entity.
+03/06/2019,DD,DuPont,Materials,DWDP,DuPont,Materials,DWDP changed to DD after spinning off Corteva.
+03/06/2019,CTVA,Corteva,Materials,FLR,Fluor Corporation,Industrials,CTVA spun off from DWDP (which then changed symbol to DD)
+02/04/2019,DOW,Dow,Materials,BHF,Brighthouse Financial,Financial Services,DOW spun off from DWDP
+19/03/2019,FOXA,Fox Corporation,Communication Services,FOXA,21st Century Fox,Communication Services,21st Century Fox merged with Disney and some parts spun off as Fox Corporation.
+19/03/2019,FOX,Fox Corporation,Communication Services,FOX,21st Century Fox,Communication Services,21st Century Fox merged with Disney and some parts spun off as Fox Corporation.
+27/02/2019,WAB,Wabtec,Industrials,GT,The Goodyear Tire & Rubber Company,Consumer Cyclical,WAB acquired GE transportation business
+15/02/2019,ATO,Atmos Energy,Utilities,NFX,Newfield Exploration,Energy,ECA acquired NFX
+18/01/2019,TFX,Teleflex,Healthcare,PCG,Pacific Gas & Electric Company,Utilities,PCG filed for bankruptcy
+02/01/2019,FRC,First Republic Bank,Financials,SCG,SCANA,Utilities,Dominion Energy acquired SCANA Corporation
+24/12/2018,CE,Celanese,Basic Materials,ESRX,Express Scripts,Health Care,S&P 500 constituent Cigna (NYSE: CI) acquired ESRX
+03/12/2018,LW,Lamb Weston,Consumer Staples,COL,Rockwell Collins,Industrials,UTX acquired COL
+03/12/2018,MXIM,Maxim Integrated,Information Technology,AET,Aetna,Health Care,CVS acquired Aetna
+03/12/2018,FANG,Diamondback Energy,Energy,SRCL,Stericycle,Industrials,Market Capitalization change
+13/11/2018,JKHY,Jack Henry & Associates,Financials,EQT,EQT Corporation,Energy,EQT spun off ETRN
+06/11/2018,KEYS,Keysight,Information Technology,CA,CA Technologies,Information Technology,CA acquired by Broadcom .
+11/10/2018,FTNT,Fortinet,Information Technology,EVHC,Envision Healthcare,Health Care,EVHC acquired by KKR .
+01/10/2018,ROL,Rollins,Industrials,ANDV,Andeavor,Energy,ANDV acquired by Marathon Petroleum .
+14/09/2018,WCG,WellCare,Health Care,XL,XL Group,Financials,XL acquired by Axa .
+28/08/2018,ANET,Arista Networks,Information Technology,GGP,GGP,Real Estate,GGP acquired by Brookfield Property Partners .
+02/07/2018,CPRT,Copart,Industrials,DPS,Dr Pepper Snapple Group,Consumer Staples,DPS acquired by Keurig Green Mountain .
+20/06/2018,FLT,FleetCor Technologies,Information Technology,TWX,Time Warner,Communication Services,AT&T acquired Time Warner.
+18/06/2018,BR,Broadridge Financial Solutions,Industrials,RRC,Range Resources,Energy,Market capitalization change.
+18/06/2018,HFC,HollyFrontier,Energy,AYI,Acuity Brands,Industrials,Market capitalization change.
+07/06/2018,TWTR,Twitter,Communication Services,MON,Monsanto,Materials,Bayer acquired Monsanto.
+05/06/2018,EVRG,Evergy,Utilities,NAVI,Navient,Financial Services,Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.
+31/05/2018,ABMD,Abiomed,Health Care,WYN,Wyndham Worldwide,Consumer Discretionary,Wyndham Worldwide spun off Wyndham Hotels & Resorts (NYSE:WH).
+04/04/2018,MSCI,MSCI,Financials,CSRA,CSRA,Information Technology,S&P 500 constituent General Dynamics (NYSE: GD) acquired CSRA.
+19/03/2018,TTWO,Take-Two Interactive,Communication Services,SIG,Signet Jewelers,Consumer Cyclical,Market capitalization change.
+19/03/2018,SIVB,SVB Financial Group,Financials,PDCO,Patterson Companies,Health Care,Market capitalization change.
+19/03/2018,NKTR,Nektar Therapeutics,Healthcare,CHK,Chesapeake Energy,Energy,Market capitalization change.
+07/03/2018,IPGP,IPG Photonics,Technology,SNI,Scripps Networks Interactive,Communication Services,Discovery Communications acquired SNI.
+03/01/2018,HII,Huntington Ingalls Industries,Industrials,BCR,CR Bard,Health Care,Becton Dickinson acquired BCR.
+13/10/2017,NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,LVLT,Level 3 Communications,Communication Services,CenturyLink acquired LVLT.
+18/09/2017,CDNS,Cadence Design Systems,Information Technology,SPLS,Staples,Consumer Staples,Sycamore Partners acquired Staples.
+01/09/2017,DWDP,DuPont,Materials,DOW,Dow Chemical Company,Materials,The Dow Chemical Company renamed to DowDuPont Inc. and ticker changed from DOW to DWDP after acquiring DuPont.
+01/09/2017,SBAC,SBA Communications,Real Estate,DD,DuPont,Materials,The Dow Chemical Company acquired DuPont.
+29/08/2017,Q,QuintilesIMS,Consumer Discretionary,WFM,Whole Foods Market,Consumer Staples,Amazon acquired Whole Foods Market.
+08/08/2017,BHF,Brighthouse Financial,Financial Services,AN,AutoNation,Consumer Cyclical,"BHF replaced AN,  MET spun off BHF"
+26/07/2017,DRE,Duke RealtyCorp,Real Estate,RIG,Transocean,Energy,Market capitalization change.
+26/07/2017,AOS,A. O. Smith,Industrials,BBBY,Bed Bath & Beyond,Consumer Discretionary,Market capitalization change.
+26/07/2017,PKG,Packaging Corporation of America,Materials,MUR,Murphy Oil,Energy,Market capitalization change.
+26/07/2017,RMD,ResMed,Health Care,MNK,Mallinckrodt,Health Care,Market capitalization change.
+26/07/2017,MGM,MGM Resorts International,Consumer Discretionary,RAI,Reynolds American,Consumer Staples,British American Tobacco (NYSE MKT:BTI) acquired Reynolds American.
+07/07/2017,BKR,Baker Hughes,Energy,BHI,Baker Hughes,Energy,Baker Hughes merged with GE Oil & Gas to form new company.
+19/06/2017,HLT,Hilton,Consumer Discretionary,YHOO,Yahoo!,Communication Services,VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known as Altaba .
+19/06/2017,ALGN,Align Technology,Health Care,TDC,Teradata,Technology,Market capitalization changes.
+19/06/2017,ANSS,Ansys,Information Technology,R,Ryder System,Industrials,Market capitalization changes.
+19/06/2017,RE,Everest Re,Financials,MJN,Mead Johnson,Consumer Staples,Reckitt Benckiser acquired Mead Johnson Nutrition.
+02/06/2017,INFO,IHS Markit,Information Technology,TGNA,Tegna,Communication Services,TGNA spins off Cars.com
+05/04/2017,IT,Gartner,Information Technology,DNB,Dun & Bradstreet,Financial Services,IT acquiring CEB
+04/04/2017,DXC,DXC Technology,Technology,SWN,Southwestern Energy,Energy,"HPE spins off Everett, merged with CSC to form DXC"
+20/03/2017,AMD,Advanced Micro Devices,Information Technology,URBN,Urban Outfitters,Consumer Cyclical,Market capitalization change.
+20/03/2017,RJF,Raymond James Financial,Financials,FTR,Frontier Communications,Communication Services,Market capitalization change.
+20/03/2017,ARE,Alexandria Real Estate Equities,Real Estate,FSLR,First Solar,Information Technology,Market capitalization change.
+16/03/2017,SNPS,Synopsys,Information Technology,HAR,Harman International,Consumer Discretionary,Samsung Electronics acquired Harman International Industries.
+13/03/2017,DISH,Dish Network,Communication Services,LLTC,Linear Technology,Information Technology,S&P 500 constituent Analog Devices (NASD:ADI) acquired Linear Technology.
+02/03/2017,REG,Regency Centers,Real Estate,ENDP,Endo International,Health Care,REG acquires EQY
+01/03/2017,CBOE,Cboe Holdings,Financials,PBI,Pitney Bowes,Industrials,CBOE acquires BATS
+28/02/2017,INCY,Incyte,Health Care,SE,Spectra Energy,Consumer Cyclical,SE acquired by ENB
+05/01/2017,IDXX,Idexx Laboratories,Health Care,STJ,St Jude Medical,Health Care,S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.
+02/12/2016,MAA,Mid-America Apartments,Real Estate,OI,Owens-Illinois,Consumer Cyclical,Market capitalization change.
+02/12/2016,EVHC,Envision Healthcare,Health Care,LM,Legg Mason,Financials,Market capitalization change.
+01/11/2016,ARNC,Arconic,Materials,AA,Alcoa,Basic Materials,AA spins off ARNC
+30/09/2016,COTY,Coty,Consumer Defensive,DO,Diamond Offshore Drilling,Energy,COTY replaces DO
+22/09/2016,COO,The Cooper Companies,Health Care,HOT,Starwood,Consumer Discretionary,MAR acquires HOT
+08/09/2016,CHTR,Charter Communications,Communication Services,EMC,EMC Corporation,Information Technology,Dell acquires EMC
+06/09/2016,MTD,Mettler Toledo,Health Care,TYC,Tyco International,Industrials,TYC acquires JCI (and retains JCI ticker).
+05/07/2016,FTV,Fortive Corp,Industrials,CPGX,Columbia Pipeline Group,Consumer Staples,CPGX acquired by TRP
+01/07/2016,LNT,Alliant Energy Corp,Utilities,GAS,AGL Resources,Utilities,GAS acquired by SO
+01/07/2016,ALB,Albemarle Corporation,Materials,TE,TECO Energy,Industrials,TE acquired by EMA
+22/06/2016,FBHS,Fortune Brands Home & Security,Consumer Discretionary,CVC,Cablevision Systems,Communication Services,CVC acquired by Altice NV
+03/06/2016,TDG,TransDigm Group,Industrials,BXLT,Baxalta,Health Care,SHPG acquiring BXLT
+31/05/2016,AJG,Arthur J. Gallagher & Co.,Financials,CCE,Coca-Cola Enterprises,Consumer Staples,CCE merging with European bottlers
+23/05/2016,LKQ,LKQ Corporation,Consumer Discretionary,ARG,Airgas,Materials,ARG acquired by Air Liquide
+18/05/2016,DLR,Digital Realty,Real Estate,TWC,Time Warner Cable,Communication Services,TWC acquired by CHTR
+13/05/2016,ALK,Alaska Air Group,Industrials,SNDK,SanDisk,Technology,SNDK acquired by WDC
+03/05/2016,AYI,Acuity Brands,Industrials,ADT,ADT,Industrials,ADT acquired by APO
+25/04/2016,GPN,Global Payments,Financials,GME,GameStop,Consumer Cyclical,Global Payments is acquiring Heartland Payment Systems
+18/04/2016,ULTA,Ulta Beauty,Consumer Discretionary,THC,Tenet Healthcare,Healthcare,Ulta replaces Tenet
+08/04/2016,UA,Under Armour(Class C),Consumer Cyclical,,,,Under Armour distribution of second class of stock
+04/04/2016,FL,Foot Locker,Consumer Cyclical,CAM,Cameron International,Energy,Schlumberger acquired Cameron
+30/03/2016,HOLX,Hologic,Health Care,POM,Pepco Holdings,Utilities,Exelon acquired Pepco.
+30/03/2016,CNC,Centene Corporation,Health Care,ESV,Ensco,Energy,Centene acquired Health Net .
+07/03/2016,UDR,UDR,Real Estate,GMCR,Keurig Green Mountain,Consumer Staples,JAB Holding Company acquired Keurig Green Mountain
+04/03/2016,AWK,American Water Works,Utilities,CNX,Consol Energy,Energy,AWK replaces CNX
+22/02/2016,CXO,Concho Resources,Energy,PCL,Plum Creek Timber,Real Estate,PCL taken over by WY
+01/02/2016,CFG,Citizens,Financials,PCP,Precision Castparts Corporation,Industrials,CFG replaces PCP
+01/02/2016,FRT,Federal Realty Investment Trust,Real Estate,BRCM,Broadcom Corporation,Information Technology,FRT replaces BRCM
+19/01/2016,EXR,Extra Space Storage,Real Estate,ACE,Chubb,Financials,"EXR replaces ACE as ACE Ltd acquires Chubb and retains the CB ticker, giving up ACE"
+05/01/2016,WLTW,Willis Towers Watson,Financials,FOSL,Fossil Group,Consumer Cyclical,WSH merges with TW (and renames to WLTW)
+29/12/2015,CHD,Church & Dwight,Consumer Staples,ALTR,Altera,Information Technology,ALTR taken over by INTC
+15/12/2015,,,,CMCSK,Comcast K Corp,Communication Services,CMCSK shares no longer listed
+01/12/2015,CSRA,CSRA,Information Technology,CSC,Computer Sciences Corporation,Information Technology,CSC spins off CSRA
+19/11/2015,ILMN,Illumina,Healthcare,SIAL,Sigma-Aldrich,Health Care,Sigma-Aldrich acquired by Merck KGaA (MKGAY)
+18/11/2015,SYF,Synchrony Financial,Financials,GNW,Genworth Financial,Financial Services,GE spinning off Synchrony Financial
+02/11/2015,HPE,Hewlett Packard Enterprise,Information Technology,HCBK,Hudson City Bancorp,Financials,HPQ spins off HPE
+07/10/2015,VRSK,Verisk Analytics,Industrials,JOY,Joy Global,Industrials,Market capitalization change.
+18/09/2015,CMCSK,ComcastClass K Special,Communication Services,,,,Share class methodology change
+18/09/2015,FOX,Twenty-First Century FoxClass B,Communication Services,,,,Share class methodology change
+18/09/2015,NWS,News CorporationClass B,Communication Services,,,,Share class methodology change
+02/09/2015,UAL,United Continental Holdings,Industrials,HSP,Hospira,Health Care,Hospira taken over
+28/08/2015,ATVI,Activision Blizzard,Communication Services,PLL,Pall Corporation,Basic Materials,Pall taken over
+29/07/2015,SIG,Signet Jewelers,Consumer Cyclical,DTV,DirecTV,Communication Services,DirecTV acquired by AT&T.
+20/07/2015,PYPL,PayPal,Financials,NE,Noble Corporation,Energy,PayPal Spun off by eBay
+08/07/2015,AAP,Advance Auto Parts,Consumer Cyclical,FDO,Family Dollar,Consumer Discretionary,Family Dollar acquired.
+06/07/2015,KHC,Kraft Heinz,Consumer Staples,KRFT,Kraft Foods,Consumer Staples,Kraft merger with Heinz.
+02/07/2015,CPGX,Columbia Pipeline Group,Consumer Staples,ATI,Allegheny Technologies,Industrials,Spin off of Columbia Pipeline.
+01/07/2015,JBHT,J.B. Hunt,Industrials,TEG,Integrys Energy Group,Utilities,Integrys taken over.
+01/07/2015,BXLT,Baxalta,Health Care,QEP,QEP Resources,Energy,Baxalta spun off by Baxter.
+11/06/2015,QRVO,Qorvo,Technology,LO,Lorillard Tobacco Company,Consumer Staples,Lorillard gets acquired.
+07/04/2015,O,Realty Income Corporation,Real Estate,WIN,Windstream Communications,Communication Services,Market capitalization change.
+23/03/2015,AAL,American Airlines Group,Industrials,AGN,Allergan,Health Care,Allergan acquired by Actavis (and changed name to Allergan ).
+23/03/2015,EQIX,Equinix,Real Estate,DNR,Denbury Resources,Energy,Market Capitalization Changes.
+23/03/2015,SLG,SL Green Realty,Real Estate,NBR,Nabors Industries,Energy,Market Capitalization Changes.
+23/03/2015,HBI,Hanesbrands,Consumer Cyclical,AVP,Avon Products,Consumer Staples,Market Capitalization Changes.
+18/03/2015,HSIC,Henry Schein,Health Care,CFN,Carefusion,Health Care,Carefusion acquired by Becton Dickinson
+12/03/2015,SWKS,Skyworks,Information Technology,PETM,PetSmart,Consumer Discretionary,PetSmart acquired by private equity consortium
+27/01/2015,HCA,HCA Holdings,Health Care,SWY,Safeway,Consumer Staples,Safeway acquired by private equity consortium
+27/01/2015,ENDP,Endo International,Health Care,COV,Covidien,Health Care,Covidien acquired by Medtronic
+05/12/2014,RCL,Royal Caribbean Cruises,Consumer Discretionary,BMS,Bemis Company,Materials,Market cap changes
+05/11/2014,LVLT,Level 3 Communications,Communication Services,JBL,Jabil Circuit,Information Technology,Market cap changes
+20/09/2014,URI,United Rentals,Industrials,BTU,Peabody Energy,Energy,Market cap changes
+20/09/2014,UHS,Universal Health Services,Health Care,GHC,Graham Holdings,Consumer Defensive,Market cap changes
+18/08/2014,MNK,Mallinckrodt,Health Care,RDC,Rowan Companies,Energy,Market cap changes
+06/08/2014,DISCK,Discovery Communications,Communication Services,,,,Class C share distribution
+02/07/2014,MLM,Martin Marietta,Materials,X,United States Steel,Materials,Market capitalization changes
+01/07/2014,AMG,Affiliated Managers Group,Financial Services,FRX,Forest Laboratories,Health Care,Actavis acquires Forest Laboratories
+20/06/2014,XEC,Cimarex Energy,Energy,IGT,International Game Technology,Consumer Discretionary,Market capitalization changes
+08/05/2014,AVGO,Avago Technologies,Information Technology,LSI,LSI Corporation,Information Technology,Avago acquires LSI
+01/05/2014,UA,Under Armour,Consumer Cyclical,BEAM,Suntory Global Spirits,Healthcare,Beam acquired by Suntory
+01/05/2014,NAVI,Navient,Financial Services,SLM,SLM Corporation,Financial Services,Navient Spun off from SLM
+03/04/2014,GOOGL,Google,Communication Services,,,,Google Class C share distribution
+02/04/2014,ESS,Essex Property Trust,Real Estate,CLF,Cliffs Natural Resources,Basic Materials,Market capitalization changes
+21/03/2014,GMCR,Keurig Green Mountain,Consumer Staples,WPX,WPX Energy,Energy,Market capitalization changes
+24/01/2014,TSCO,Tractor Supply,Consumer Discretionary,LIFE,Life Technologies,Health Care,Life Technologies acquired by Thermo Fisher Scientific Inc
+23/12/2013,ADS,Alliance Data Systems,Information Technology,ANF,Abercrombie & Fitch,Consumer Cyclical,Market capitalization changes.
+23/12/2013,MHK,Mohawk Industries,Consumer Discretionary,JDSU,JDS Uniphase,Information Technology,Market capitalization changes.
+23/12/2013,FB,Facebook,Communication Services,TER,Teradyne,Information Technology,Market capitalization changes.
+10/12/2013,GGP,General Growth Properties,Real Estate,MOLX,Molex,Information Technology,MOLX acquired by Koch Industries .
+02/12/2013,ALLE,Allegion,Industrials,JCP,JCPenney,Consumer Discretionary,Allegion spun off by Ingersoll Rand.
+13/11/2013,KORS,Michael Kors,Consumer Discretionary,NYX,NYSE Euronext,Financials,ICE Exchange acquired NYSE Euronext.
+29/10/2013,RIG,Transocean,Energy,DELL,Dell,Information Technology,Founder Michael Dell and Silver Lake Partners acquired Dell.
+20/09/2013,VRTX,Vertex Pharmaceuticals,Health Care,AMD,Advanced Micro Devices,Information Technology,Market capitalization change.
+20/09/2013,AME,Ametek,Industrials,SAI,SAIC,Information Technology,Market capitalization change.
+10/09/2013,DAL,Delta Air Lines,Industrials,BMC,BMC Software,Information Technology,BMC taken private by consortium
+08/07/2013,NLSN,Nielsen Holdings,Communication Services,S,Sprint Nextel,Technology,Softbank consortium purchase results in public float below 50%
+01/07/2013,NWSA,21st Century Fox,Communication Services,APOL,Apollo Education Group,Consumer Discretionary,Apollo Group's market cap more representative of a mid-cap
+21/06/2013,ZTS,Zoetis,Health Care,FHN,First Horizon,Financial Services,Zoetis spun off by Pfizer
+06/06/2013,GM,General Motors,Consumer Discretionary,HNZ,Heinz,Consumer Staples,HNZ acquired by consortium
+23/05/2013,KSU,Kansas City Southern,Industrials,DF,Dean Foods,Consumer Staples,DF too small after spinoff of White Wave Foods
+08/05/2013,MAC,Macerich,Real Estate,CVH,Coventry Health Care,Health Care,Acquired by Aetna (AET)
+30/04/2013,REGN,Regeneron Pharmaceuticals,Health Care,PCS,MetroPCS,Communication Services,A majority of MetroPCS was acquired by T-Mobile
+15/02/2013,PVH,PVH,Consumer Cyclical,BIG,Big Lots,Consumer Discretionary,Market capitalization changes
+02/01/2013,ABBV,AbbVie,Health Care,FII,Federated Investors,Financials,ABBV spun off from Abbott Labs (ABT)
+21/12/2012,DLPH,Delphi Automotive,Consumer Discretionary,TIE,Titanium Metals,Materials,TIE acquired by Precision Cast Parts (PCP)
+11/12/2012,GRMN,Garmin,Consumer Discretionary,RRD,RR Donnelley,Industrials,Market capitalization changes
+03/12/2012,DG,Dollar General,Consumer Staples,CBE,Cooper Industries,Industrials,Acquired by Eaton Corp. (ETN)
+10/10/2012,PETM,PetSmart,Consumer Discretionary,SUN,Sunoco,Energy,Acquired by Energy Transfer Partners (ETP)
+02/10/2012,KRFT,Kraft Foods,Consumer Staples,ANR,Alpha Natural Resources,Energy,Kraft split into two companies
+02/10/2012,MDLZ,Mondelez,Consumer Staples,KFT,Kraft Foods,Consumer Staples,Old Kraft Foods renamed Mondelez
+01/10/2012,ADT,ADT,Industrials,LXK,Lexmark,Information Technology,Tyco spun off ADT
+01/10/2012,PNR,Pentair,Industrials,DV,DeVry,Technology,Tyco spin-off merged w/Pentair
+05/09/2012,LYB,LyondellBasell,Materials,SHLD,Sears Holdings,Consumer Discretionary,SHLD below public float threshold
+31/07/2012,ESV,Ensco,Energy,GR,Goodrich Corporation,Energy,Goodrich acquired by United Technologies (UTX).
+02/07/2012,STX,Seagate Technology,Information Technology,PGN,Progress Energy,Energy,Acquired by Duke Energy (DUK)
+29/06/2012,MNST,Monster Beverage,Consumer Staples,SLE,Sara Lee Corporation,Communication Services,Split up of Sara Lee
+05/06/2012,LRCX,Lam Research,Information Technology,NVLS,Novellus Systems,Information Technology,Acquired by Lam Research (LRCX)
+21/05/2012,ALXN,Alexion Pharmaceuticals,Health Care,MMI,Motorola Mobility,Real Estate,Acquired by Google (GOOG)
+17/05/2012,KMI,Kinder Morgan,Energy,EP,El Paso Corporation,Energy,Acquired by Kinder Morgan (KMI)
+23/04/2012,PSX,Phillips 66,Energy,SVU,Supervalu,Consumer Staples,ConocoPhillips spun off Phillips 66
+03/04/2012,FOSL,Fossil,Consumer Cyclical,MHS,Medco Health Solutions,Health Care,Acquired by Express Scripts (ESRX)
+13/03/2012,CCI,Crown Castle,Real Estate,CEG,Constellation Energy Group,Utilities,Acquired by Exelon Corp. (EXC)
+31/12/2011,WPX,WPX Energy,Energy,CPWR,Compuware,Utilities,Market capitalization changes
+20/12/2011,TRIP,TripAdvisor,Consumer Cyclical,TLAB,Tellabs,Information Technology,Expedia spun off TripAdvisor.
+16/12/2011,BWA,BorgWarner,Consumer Cyclical,AKS,AK Steel,Materials,Market capitalization changes
+16/12/2011,PRGO,Perrigo,Healthcare,MWW,Monster Worldwide,Industrials,Market capitalization changes
+16/12/2011,DLTR,Dollar Tree,Consumer Staples,WFR,MEMC Electronic Materials,Information Technology,Market capitalization changes
+12/12/2011,GAS,AGL Resources.,Utilities,GAS,Nicor Gas,Utilities,"Nicor acquired by AGL, which retained the GAS ticker."
+18/11/2011,CBE,Cooper Industries,Industrials,JNS,Janus Capital Group,Financials,Janus Capital Group's market capitalization is less than $1.2 billion and is no longer representative of the large cap market space.
+31/10/2011,XYL,Xylem,Industrials,ITT,ITT,Industrials,Spun off from ITT Corp.
+14/10/2011,TEL,TE Connectivity,Information Technology,CEPH,Cephalon,Health Care,Acquired by Teva Pharmaceutical Industries (TEVA).
+23/09/2011,MOS,The Mosaic Company,Materials,NSM,National Semiconductor,Financials,Acquired by Texas Instruments (TXN).
+05/07/2011,ACN,Accenture,Information Technology,MI,Marshall & Ilsley,Consumer Cyclical,Marshall & Iisley is being bought by Bank of Montreal
+30/06/2011,MPC,Marathon Oil,Energy,RSH,RadioShack,Consumer Electronics,Market capitalization adjustments.
+01/06/2011,ANR,Alpha Natural Resources,Energy,MEE,Massey Energy,Energy,Alpha Natural Resources acquired Massey Energy.
+27/04/2011,CMG,Chipotle Mexican Grill,Consumer Discretionary,NOVL,Novell,Information Technology,Acquired by private equity firms.
+01/04/2011,BLK,BlackRock,Financials,GENZ,Genzyme,Health Care,Acquired by Sanofi Aventis (SNY)
+31/03/2011,EW,Edwards Lifesciences,Health Care,Q,Qwest Communications,Consumer Discretionary,Acquired by CenturyLink
+28/02/2011,COV,Covidien,Health Care,MFE,McAfee,Consumer Discretionary,Acquired by Intel
+25/02/2011,JOYG,Joy Global,Industrials,AYE,Allegheny Energy,Utilities,Acquired by First Energy (FE).
+03/01/2011,MMI,Motorola Mobility,Real Estate,MDP,Meredith Corp,Communication Services,S&P constituent Motorola spun off Motorola Mobility.
+17/12/2010,CVC,Cablevision,Communication Services,KG,King Pharmaceuticals,Financial Services,Acquired by Pfizer .
+17/12/2010,FFIV,F5 Networks,Information Technology,EK,Eastman Kodak,Information Technology,Market Cap changes.
+17/12/2010,NFLX,Netflix,Communication Services,ODP,Office Depot,Consumer Cyclical,Market Cap changes.
+17/12/2010,NFX,Newfield Exploration,Energy,NYT,The New York Times Company,Communication Services,Market Cap changes.
+17/11/2010,IR,Ingersoll-Rand,Industrials,PTV,Pactiv,Financials,Reynolds Group Holdings acquired Pactiv.
+26/08/2010,TYC,Tyco International,Industrials,SII,Smith International,Financial Services,Acquired by Schlumberger (SLB)
+14/07/2010,CB,Chubb,Financials,MIL,Millipore,Industrials,Acquired by Merck KGaA (MKGAY)
+30/06/2010,QEP,QEP Resources,Energy,STR,Questar,Energy,"Company split. QEP retained, but ticker changed."
+28/06/2010,KMX,CarMax,Consumer Discretionary,XTO,XTO Energy,Energy,Acquired by ExxonMobil
+29/04/2010,CERN,Cerner,Health Care,BJS,BJ Services,Energy,Acquired by Baker Hughes
+26/02/2010,HP,Helmerich & Payne,Energy,RX,IMS Health,Health Care,Taken private
+18/12/2009,V,Visa,Financials,CIEN,Ciena,Technology,Market capitalization change. [ citation needed ]
+18/12/2009,MJN,Mead Johnson Nutrition,Consumer Staples,DYN,Dynegy,Healthcare,Market capitalization change. [ citation needed ] }
+18/12/2009,CLF,Cliffs Natural Resources,Basic Materials,KBH,KB Home,Consumer Cyclical,Market capitalization change. [ citation needed ]
+18/12/2009,SAI,SAIC,Information Technology,CVG,Convergys,Information Technology,Market capitalization change. [ citation needed ]
+18/12/2009,ROST,Ross Stores,Consumer Discretionary,MBI,MBIA,Financial Services,Market capitalization change. [ citation needed ]
+03/11/2009,PCLN,Priceline.com,Consumer Discretionary,SGP,Schering-Plough,Health Care,Acquired by Merck & Co. (MRK)
+28/09/2009,ARG,Airgas,Materials,CBE,Cooper Industries,Industrials,Redomesticated to Ireland
+19/08/2009,FMC,FMC Corporation,Basic Materials,CTX,Centex Corp.,Industrials,Centex acquired by Pulte Homes .
+29/06/2009,PCS,MetroPCS,Communication Services,,,,PCS replaced TEL.
+25/06/2009,,,,TEL,TE Connectivity,Information Technology,"Tyco Electronics left the index because it was reincorporating in Switzerland, making it ineligible for inclusion."
+05/06/2009,FTI,FMC Technologies,Energy,COV,Covidien,Health Care,"Covidien moved its place of incorporation to Ireland, making it ineligible for inclusion in the index."
+03/03/2009,HRL,Hormel Foods,Consumer Staples,ACAS,American Capital,Financials,Capitalization rebalance.
+03/03/2009,VTR,Ventas,Real Estate,JNY,Jones Apparel Group,Consumer Discretionary,Capitalization rebalance.
+31/12/2008,OI,Owens-Illinois,Consumer Cyclical,WB,Wachovia Bank,Communication Services,Wachovia Bank acquired by Wells Fargo .
+16/09/2008,HRS,Harris Corporation,Information Technology,LEH,Lehman Brothers,Financials,Lehman Brothers filed for bankruptcy .
+12/09/2008,CRM,Salesforce,Information Technology,FRE,Freddie Mac,Financials,Capitalization rebalance.
+12/09/2008,FAST,Fastenal,Industrials,FNM,Fannie Mae,Financials,Capitalization rebalance.
+01/07/2008,AKS,AK Steel,Materials,CFC,Countrywide Financial Corp,Financials,Ak Steel replaced Countrywide Financial.
+23/06/2008,COG,Cabot Oil & Gas,Energy,BC,Brunswick,Consumer Cyclical,Market capitalization change.
+23/06/2008,MEE,Massey Energy,Energy,OMX,OfficeMax,Consumer Staples,Market capitalization change.
+10/06/2008,LO,Lorillard Tobacco Company,Consumer Staples,ABK,Ambac Financial,Financials,Market Value Decline
+20/12/2007,RRC,Range Resources,Energy,TRB,Tribune Media,Consumer Discretionary,Taken private
+13/12/2007,GME,GameStop,Consumer Cyclical,DJ,Dow Jones,Communication Services,Acquired by News Corporation
+26/10/2007,JEC,Jacobs Engineering Group,Industrials,AV,Avaya,Information Technology,Taken private
+02/10/2007,EXPE,Expedia,Consumer Discretionary,SLR,Solectron,Financials,Solectron acquired by Flextronics .
+01/10/2007,TDC,Teradata,Technology,NCR,NCR Corporation,Information Technology,Teradata spun off by NCR Corporation.
+27/09/2007,TSO,Tesoro Corporation,Energy,MXIM,Maxim Integrated Products,Information Technology,MXIM delisted from NASDAQ exchange.
+26/09/2007,ICE,Intercontinental Exchange,Financials,FDC,First Data,Information Technology,FDC acquired by KKR .
+24/08/2007,LUK,Leucadia National,Financials,KSE,KeySpan,Industrials,Acquired by National Grid plc
+02/07/2007,DFS,Discover Financial,Financials,ADCT,ADC Telecommunications,Healthcare,Discover Financial Services debuts on New York Stock Exchange.
+30/03/2007,KFT,Kraft Foods,Consumer Staples,TSG,Sabre Corporation,Communication Services,Taken Private
+10/01/2007,AVB,AvalonBay Communities,Real Estate,SBL,Symbol Technologies,Consumer Staples,Acquired by Motorola
+02/06/2006,JNPR,Juniper Networks,Information Technology,ABS,Albertsons,Financials,Albertsons acquired by SuperValu and CVS Corp.
+18/11/2005,AMZN,Amazon,Consumer Discretionary,T,AT&T Corporation,Communication Services,AT&T Corp. acquired by SBC Communications
+01/07/2005,STZ,Constellation Brands,Consumer Staples,GLK,Great Lakes Chemical,Real Estate,Acquired by Crompton Corp.
+25/09/2003,ESRX,Express Scripts,Health Care,QTRN,Quintiles Transnational,Information Technology,Taken private
+05/12/2000,INTU,Intuit,Information Technology,BS,Bethlehem Steel,Consumer Discretionary,Market Cap changes.
+05/12/2000,SBL,Symbol Technologies,Consumer Staples,OI,Owens-Illinois,Consumer Cyclical,Market Cap changes.
+05/12/2000,AYE,Allegheny Energy,Utilities,GRA,WR Grace,Materials,Market Cap changes.
+05/12/2000,ABK,Ambac Financial,Financials,CCK,Crown Holdings,Consumer Cyclical,Market Cap changes.
+27/07/2000,JDSU,JDS Uniphase,Information Technology,RAD,Rite Aid,Consumer Staples,Market Cap change.
+12/06/2000,CVG,Convergys,Information Technology,TMC,Times Mirror,Basic Materials,Tribune Co. acquired Times Mirror.
+07/06/2000,SBUX,Starbucks,Consumer Discretionary,SMS,Shared Medical Systems,Consumer Staples,Siemens AG acquired Shared Medical Systems.
+08/12/1999,YHOO,Yahoo!,Communication Services,LDW,Laidlaw,Industrials,Market capitalization change.
+09/06/1999,WLP,Wellpoint,Health Care,HPH,Harnischfeger Industries,Consumer Discretionary,Harnischfeger filed for bankruptcy.
+12/04/1999,ACT,Actavis,Financial Services,,,,Actavis plc (NYSE:ACT) added to S&P 500
+11/12/1998,FSR,Firstar,Consumer Discretionary,AN,Amoco,Consumer Cyclical,BP purchased Amoco.
+11/12/1998,CCL,Carnival Corp.,Consumer Discretionary,GRN,General Re,Financials,Berkshire Hathaway purchased General Re.
+11/12/1998,CPWR,Compuware,Utilities,SUN,SunAmerica,Energy,AIG purchased SunAmerica.
+17/06/1997,CCR,Countrywide Credit Industries,Consumer Discretionary,USL,USLife,Materials,AIG acquired USLife.
+30/09/1994,NCC,National City,Industrials,MCK,McKesson,Health Care,McKesson sold PCS Health Services to Eli Lilly .
+01/07/1976,BUD,Anheuser Busch,Consumer Defensive,HNG,Houston Natural Gas,Energy,"Major restructuring of S&P 500 to have fewer industrials and utilities, and more financial companies to add ""new strength and breadth"""
+01/07/1976,DIS,The Walt Disney Company,Communication Services,AYE,Allegheny Energy,Utilities,"Major restructuring of S&P 500 to have fewer industrials and utilities, and more financial companies to add ""new strength and breadth"""
